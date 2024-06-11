@@ -1,6 +1,6 @@
 # Oppkey quarto demo for R Consortium Blog
 
-<https://oppkey.com/quarto/>
+<https://oppkey.github.io/quarto/>
 
 ## Features
 
