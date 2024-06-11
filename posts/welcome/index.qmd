@@ -31,4 +31,4 @@ The sample blog template also comes with a simple R system addition test.
 
 ```{r}
 1 + 1
-```
+``` 
